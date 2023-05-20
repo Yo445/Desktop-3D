@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/L1.unity
+    guid: d0922777dfbf4d542a8063db07e02a5c
+  - enabled: 1
+    path: Assets/Scenes/Game 1.unity
+    guid: 190eb63cba480624e8bae29fec6a26bd
+  - enabled: 1
+    path: Assets/Scenes/Game 2.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Game 3.unity
+    guid: 636be79786a71134fbee146d2ad92741
+  - enabled: 1
+    path: Assets/Scenes/Game 4.unity
+    guid: 4cad8cbf07938c943b08ee1ab9dc2369
+  - enabled: 1
+    path: Assets/Scenes/Multi.unity
+    guid: d249318dba6796e4bb180a2b7e44cde0
+  - enabled: 1
+    path: Assets/Scenes/shotting/shooting.unity
+    guid: d5c5734d2f31ff64bac42c6a1de97b36
+  - enabled: 1
+    path: Assets/Scenes/shotting/Win.unity
+    guid: 4ccfe5c7895b2de489fcec09a436b5df
+  - enabled: 1
+    path: Assets/Scenes/shotting/Game-Over.unity
+    guid: 020455d2be7f66645b6b6a78acb98064
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 9e7afe259a0ce914292fc1bc36a38df2
+  - enabled: 1
+    path: Assets/Scenes/Ohh.unity
+    guid: 131c114a578d8bc489eefeb3e823a746
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
